@@ -1,0 +1,13 @@
+*.py linguist-detectable=true
+*.cpp linguist-detectable=true
+*.h linguist-detectable=true
+
+*.tar linguist-detectable=python
+*.sig linguist-detectable=python
+*.pgp linguist-detectable=python
+*.md linguist-detectable=python
+*.html linguist-detectable=python
+*.css linguist-detectable=python
+*.js linguist-detectable=python
+*.php linguist-detectable=python
+*.exe linguist-detectable=python
