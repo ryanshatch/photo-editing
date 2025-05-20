@@ -2,12 +2,12 @@
 *.cpp linguist-detectable=true
 *.h linguist-detectable=true
 
-*.tar linguist-detectable=python
-*.sig linguist-detectable=python
-*.pgp linguist-detectable=python
-*.md linguist-detectable=python
-*.html linguist-detectable=python
-*.css linguist-detectable=python
-*.js linguist-detectable=python
-*.php linguist-detectable=python
-*.exe linguist-detectable=python
+*.md linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.php linguist-detectable=false
+*.exe linguist-detectable=false
+*.tar linguist-detectable=false
+*.sig linguist-detectable=false
+*.pgp linguist-detectable=false
