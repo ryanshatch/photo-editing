@@ -69,12 +69,6 @@ Version: 1.0                     ***********************************************
         <code>By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable copyright laws. <br>Failure to abide by the terms of this license may subject you to legal consequences. </code>
       </strong>
     </p>
-  </body>
-</html>
-<!-- <h2 id="contact">Contact</h2>
-<p> For any inquiries or suggestions, please contact me at <a href="mailto:ryan@rshatch.com">ryan@rshatch.com</a>. </p>
-</body>
-</html> -->
     <h2 id="contact">Contact</h2>
     <p> For any inquiries or suggestions, please contact me at <a href="mailto:ryanshatch@gmail.com">ryanshatch@gmail.com</a>. </p>
   </body>
